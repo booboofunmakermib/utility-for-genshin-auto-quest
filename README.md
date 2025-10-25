@@ -1,0 +1,1 @@
+# utility-for-genshin-auto-quest
